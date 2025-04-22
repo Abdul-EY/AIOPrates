@@ -1,0 +1,44 @@
+2025-04-10 14:34:59,164 - INFO - Starting EIOPA rates extraction
+2025-04-10 14:34:59,346 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-10 14:34:59,828 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-10 14:35:02,486 - INFO - Successfully extracted EIOPA rates
+2025-04-10 14:41:03,071 - INFO - Starting EIOPA rates extraction
+2025-04-10 14:41:03,260 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-10 14:41:03,706 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-10 14:41:06,296 - INFO - Successfully extracted EIOPA rates
+2025-04-11 13:11:56,259 - INFO - Starting EIOPA rates extraction
+2025-04-11 13:11:56,517 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-11 13:11:56,996 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-11 13:12:00,661 - INFO - Successfully extracted EIOPA rates
+2025-04-11 14:11:33,504 - INFO - Starting EIOPA rates extraction
+2025-04-11 14:11:34,038 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-11 14:11:35,965 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-11 14:11:39,977 - ERROR - Failed to complete EIOPA rates extraction
+2025-04-11 14:12:07,911 - INFO - Starting EIOPA rates extraction
+2025-04-11 14:12:08,462 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-11 14:12:09,834 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-11 14:12:10,774 - INFO - Successfully extracted EIOPA rates
+2025-04-16 09:20:03,906 - INFO - Starting EIOPA rates extraction
+2025-04-16 09:20:04,114 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-16 09:20:04,423 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-16 09:20:04,640 - ERROR - Failed to complete EIOPA rates extraction
+2025-04-16 09:20:17,428 - INFO - Starting EIOPA rates extraction
+2025-04-16 09:20:17,553 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-16 09:20:17,847 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-16 09:20:19,531 - INFO - Created plot and saved to downloads\Euro_Rates_Plot.png and Excel file
+2025-04-16 09:20:19,543 - INFO - Successfully extracted EIOPA rates
+2025-04-16 09:25:08,116 - INFO - Starting EIOPA rates extraction
+2025-04-16 09:25:08,292 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-16 09:25:08,634 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-16 09:25:10,416 - INFO - Created plot and saved to downloads\Euro_Rates_Plot.png and Excel file
+2025-04-16 09:25:10,428 - INFO - Successfully extracted EIOPA rates
+2025-04-16 09:37:44,415 - INFO - Starting EIOPA rates extraction
+2025-04-16 09:37:44,586 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-16 09:37:44,944 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-16 09:37:46,915 - INFO - Created plot and saved to downloads\Euro_Rates_Plot.png and Excel file
+2025-04-16 09:37:46,926 - INFO - Successfully extracted EIOPA rates
+2025-04-22 10:46:34,125 - INFO - Starting EIOPA rates extraction
+2025-04-22 10:46:34,342 - INFO - Found download link: https://www.eiopa.europa.eu/document/download/272f25b0-ae0e-4c63-81e9-eb9c6d83c353_en?filename=EIOPA_RFR_20250331.zip
+2025-04-22 10:46:34,709 - INFO - Extracted Excel file: downloads\EIOPA_RFR_20250331_Term_Structures.xlsx
+2025-04-22 10:46:37,026 - INFO - Created plot and saved to downloads\Euro_Rates_Plot.png and Excel file
+2025-04-22 10:46:37,039 - INFO - Successfully extracted EIOPA rates
